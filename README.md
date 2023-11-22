@@ -1,7 +1,10 @@
 # AI_ML_Project2
 
+OVERVIEW
+The provided dataset contains information on 426K cars to ensure processing speed. The goal is to understand what factors make a car more or less expensive. As a result of the analysis, provided recommendations to the client  as to what consumers value in a used car.
+
 Business Understanding
-From a business perspective, we are tasked with identifying key drivers for used car prices. In the CRISP-DM overview, we are asked to convert this business framing to a data problem definition. Using a few sentences, reframe the task as a data task with the appropriate technical vocabulary.
+From a business perspective, we are tasked with identifying key drivers for used car prices. In the CRISP-DM overview, we are asked to convert this business framing to a data problem definition. Reframe the task as a data task using a few sentences with the appropriate technical vocabulary.
 
 Data Understanding
 After considering the business understanding, we want to get familiar with our data. Write down some steps that you would take to get to know the dataset and identify any quality issues within. Take time to get to know the dataset and explore what information it contains and how this could be used to inform your business understanding.
